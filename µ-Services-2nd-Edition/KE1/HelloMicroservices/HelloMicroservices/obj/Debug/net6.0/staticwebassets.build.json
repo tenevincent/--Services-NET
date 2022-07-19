@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XQZvur9AJ5xWs5Y2j0OMu/62VSN2SFRjfDQu5U6ixJY=",
+  "Source": "HelloMicroservices",
+  "BasePath": "_content/HelloMicroservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
