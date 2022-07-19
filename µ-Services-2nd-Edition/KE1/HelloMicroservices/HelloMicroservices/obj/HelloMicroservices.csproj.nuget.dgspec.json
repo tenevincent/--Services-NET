@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Developer\\DevGit\\µ-Services\\NET-µ-Services\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj": {}
+    "C:\\Developer\\DevGit\\µ-Services\\µ-Services-2nd-Edition\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj": {}
   },
   "projects": {
-    "C:\\Developer\\DevGit\\µ-Services\\NET-µ-Services\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj": {
+    "C:\\Developer\\DevGit\\µ-Services\\µ-Services-2nd-Edition\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Developer\\DevGit\\µ-Services\\NET-µ-Services\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj",
+        "projectUniqueName": "C:\\Developer\\DevGit\\µ-Services\\µ-Services-2nd-Edition\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj",
         "projectName": "HelloMicroservices",
-        "projectPath": "C:\\Developer\\DevGit\\µ-Services\\NET-µ-Services\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj",
+        "projectPath": "C:\\Developer\\DevGit\\µ-Services\\µ-Services-2nd-Edition\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj",
         "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Developer\\DevGit\\µ-Services\\NET-µ-Services\\KE1\\HelloMicroservices\\HelloMicroservices\\obj\\",
+        "outputPath": "C:\\Developer\\DevGit\\µ-Services\\µ-Services-2nd-Edition\\KE1\\HelloMicroservices\\HelloMicroservices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

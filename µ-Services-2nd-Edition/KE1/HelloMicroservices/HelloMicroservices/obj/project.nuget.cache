@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E0Ffx0YwfkNSL613IXDz9VBhAgr2BW4KpiAs9b5pzQIjcI4ZNzh92Au5bykSFEMQbt1hLOR2vI3fgir+lvCEHw==",
+  "dgSpecHash": "52MJm/XiXSWVipeioR0VvCvYsaCHnh/rERfT3fES2X8/avZGVHOW2hI27oAZRuRCkPDCUtMzsDOTFaTGcr79oA==",
   "success": true,
-  "projectFilePath": "C:\\Developer\\DevGit\\µ-Services\\NET-µ-Services\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj",
+  "projectFilePath": "C:\\Developer\\DevGit\\µ-Services\\µ-Services-2nd-Edition\\KE1\\HelloMicroservices\\HelloMicroservices\\HelloMicroservices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win10\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
